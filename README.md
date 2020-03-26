@@ -4,6 +4,7 @@ ESP-32 Sketch
 Installed Arduino IDE on WIndows 10
 
 Lessons learned
+
 There are a lot of ESP32 dev boards out there - make sure you have the Pin Out Datasheet that is specific to your board
 
 Don't start with the onboard LED blink example - there are so many ways to suffer issues such as:
